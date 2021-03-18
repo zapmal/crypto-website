@@ -147,18 +147,3 @@ section.four {
   font-size: 20px;
   line-height: 30px;
 }
-
-footer {
-  height: 10vh;
-  background-color: #ffffff;
-  border-radius: 20px;
-  width: 25%;
-  margin: 20px auto;
-  display: flex;
-  justify-content: center;
-}
-
-footer h3 {
-  color: #000000;
-  font-style: italic;
-}
